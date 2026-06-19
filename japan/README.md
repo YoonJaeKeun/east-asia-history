@@ -28,6 +28,7 @@
 - `ancient.md` : 고대 시대(야요이~나라)
 - `medieval.md` : 중세 시대(헤이안~무로마치)
 - `early-modern.md` : 근세 시대(아즈치모모야마·에도)
+- `liquor.md` : 외전 — 일본 술의 역사(사케·쇼추, 그리고 와인·위스키)
 - 이후 문서 예시 : `modern.md`
 - `sources.md` : 참고 문헌과 자료 출처
 
